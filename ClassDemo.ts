@@ -19,7 +19,7 @@ setUsername(username:string){
     this.username=username;
 }
 getHno(){
-    return this.hno;
+    return this.hallticketno;
 }
 }
 
