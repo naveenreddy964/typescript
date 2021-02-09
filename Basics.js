@@ -1,6 +1,6 @@
-var a = 4;
+var a = 3;
 var b = "ajfab";
-var c = 3;
+var c = 2;
 var list = [1, 2, 3, 4];
 var dynamic;
 dynamic = 2;
